@@ -1,12 +1,12 @@
 ---
 layout: post
-title: How to Travel on a Budget and Enjoy Every Moment
-description: Travel doesn’t have to be expensive to be enjoyable. This article provides tips on how to make the most of your trips without breaking the bank, ensuring that you can explore the world and create unforgettable memories on a budget.
+title: Cow transport by road
+description: Cow transport by road presents significant challenges, including ensuring animal welfare, managing logistics, and complying with strict regulations to minimize stress and harm to the animals during transit.
 date: 2024-08-18 15:01:35 +0300
 author: carla
-image: '/images/02.jpg'
-video_embed: https://www.youtube.com/embed/JsoUDxfx-Yw?si=_JbYlsqfyOiI6zFO
-tags: [Lifestyle]
+image: '/images/107.png'
+video_embed: https://www.youtube.com/embed/ihile_CMPnI?si=hWWDbtal9jssf0eV
+tags: [Transport, Cattle, Logistics]
 featured: true
 toc: true
 ---

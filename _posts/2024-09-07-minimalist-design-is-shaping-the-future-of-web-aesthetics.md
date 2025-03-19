@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Minimalist Design is Shaping the Future of Web Aesthetics
-description: Designers must also consider touch interactions, as mobile users rely on gestures like swiping and tapping to navigate websites and apps. By creating intuitive and responsive designs, businesses can provide a consistent and enjoyable experience.
+title: Cattle Transport in Cartagena, Challenges and Solutions
+description: The transport and export of live animals by sea present significant challenges, particularly in the port of Cartagena, Spain. Issues such as animal welfare, logistics, and compliance with international regulations are critical concerns.
 date: 2024-09-07 15:01:35 +0300
-author: richard
-image: '/images/08.jpg'
-video_embed: https://www.youtube.com/embed/DbpMfyYKY3M
-tags: [Design]
+author: carla
+image: '/images/106.png'
+video_embed: https://www.youtube.com/embed/Gy6SZohom94?si=9g0RtasBtuDE1KUN&amp;start=43
+tags: [Transport, Cartagena, Cattle]
 toc: true
 ---
 

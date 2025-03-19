@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: Nomod
+title: Maria Boada
 description: Nomod is a multipurpose Jekyll blog theme
 logo: # You can add own logo. For example "/images/logo.png".
 logo_dark:
@@ -11,12 +11,12 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 # Navigation Settings
 menu_settings:
   menu_items:
-    - title: "Home"
-      url: "/"
+    #- title: "Home"
+    #  url: "/"
     - title: "Latest"
       url: "/latest/"
-    - title: "Authors"
-      url: "/authors/"
+    # - title: "Authors"
+    #   url: "/authors/"
     - title: "Resources"
       submenu:
       - url: "/videos/"

@@ -1,7 +1,7 @@
 ---
 username: Maria Boada
 name: Maria Boada
-image: '/images/103.jpg'
+image: '/images/105.jpg'
 location: Sydney
 website:
 facebook: https://facebook.com
@@ -12,4 +12,4 @@ mastodon:
 youtube:
 tiktok:
 ---
-I’m an award-winning novelist who has published two books with a major New York City publishing house.
+I'm a dedicated veterinarian and animal rights advocate working with the NGO Animal Welfare Alliance. With a passion for ensuring the humane treatment of animals, Maria focuses on improving animal welfare in road and sea transport.

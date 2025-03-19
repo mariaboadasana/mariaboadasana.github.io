@@ -1,40 +1,49 @@
 ---
 layout: page
 title: About me
-description: We believe that great ideas are born from collaboration, and we are dedicated to fostering a culture of openness and creativity. Every member of our team brings a unique perspective, and together, we are constantly learning, growing, and evolving.
+description: Maria Boada is a dedicated veterinarian and animal rights advocate working with an NGO to improve animal welfare in land and sea transport.
 permalink: /about/
-image: '/images/17.jpg'
+image: '/images/105.jpg '
 image_caption: The beginning of a new wonderful day
 ---
 
-At the heart of our journey lies a deep commitment to innovation, creativity, and community. We are a collective of designers, thinkers, and storytellers who believe in the power of ideas to shape the future. Our mission is to create a space where imagination meets reality, where technology and design come together to craft experiences that inspire and connect. We approach every project with curiosity and passion, striving to push boundaries and challenge the status quo.
+Maria Boada is a passionate veterinarian and animal rights advocate who has dedicated her career to improving the welfare of animals in land and sea transport. With years of experience working with the NGO Animal Welfare Alliance, Maria has become a leading voice in advocating for humane treatment and better conditions for animals during transit. Her work focuses on addressing the challenges of transporting live animals, ensuring compliance with international welfare standards, and raising awareness about the importance of ethical practices in the industry.
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
+### Professional Background
 
-Our team is driven by a shared vision—to make a meaningful impact through our work. Whether it's through thoughtful design, cutting-edge technology, or engaging content, we aim to create something that resonates with people on a deeper level. We believe that great ideas are born from collaboration, and we are dedicated to fostering a culture of openness and creativity.
+Maria's journey began with a deep love for animals and a desire to make a difference in their lives. After earning her degree in veterinary medicine, she joined the Animal Welfare Alliance, where she quickly became involved in projects aimed at improving the conditions of animal transport. Her work spans multiple areas, including:
 
-Every member of our team brings a unique perspective, and together, we are constantly learning, growing, and evolving.
+- **Animal Welfare Advocacy**: Maria works tirelessly to promote policies and regulations that prioritize the well-being of animals during transport. She collaborates with governments, industry stakeholders, and other NGOs to push for stricter welfare standards.
+- **Research and Education**: Maria conducts research on the impact of transport conditions on animal health and uses her findings to educate transport companies, policymakers, and the public about the importance of humane practices.
+- **On-the-Ground Support**: From inspecting transport vehicles to providing emergency veterinary care, Maria is actively involved in ensuring that animals receive the care and attention they need during transit.
 
-![Team]({{site.baseurl}}/images/17-1.jpg#wide)
-*Before launching the project*
+### Focus on Land and Sea Transport
 
-At the core of our mission lies a deep-seated belief in the transformative power of creativity and innovation. We are a dynamic collective of designers, thinkers, and visionaries, each bringing a unique perspective to the table, united by a common purpose: to create meaningful and impactful experiences that resonate with people across the globe.
+Transporting live animals by land and sea presents unique challenges, including overcrowding, poor ventilation, long journeys, and inadequate access to food and water. Maria's work is centered on addressing these issues by:
 
-Our journey is one of relentless exploration, where every challenge is seen as an opportunity to push boundaries and redefine what's possible.
+- Advocating for better vehicle designs that prioritize animal comfort and safety.
+- Ensuring that transporters comply with international regulations, such as the World Organisation for Animal Health (OIE) standards.
+- Raising awareness about the risks associated with long-distance transport, including stress, injuries, and health complications.
 
-We approach every project with a blend of curiosity, passion, and expertise, committed to crafting solutions that not only meet the needs of today but also anticipate the demands of tomorrow. Our work spans the intersection of design and technology, where we strive to create products and experiences that are not only functional but also deeply engaging and visually compelling. We believe in the importance of storytelling, using our skills to weave narratives that connect, inspire, and provoke thought.
+### Achievements and Impact
 
-<div class="gallery-box">
-  <div class="gallery gallery-column-3">
-    <img src="/images/17-2.jpg" loading="lazy">
-    <img src="/images/17-4.jpg" loading="lazy">
-    <img src="/images/17-3.jpg" loading="lazy">
-  </div>
-  <em>Collaborative work session</em>
-</div>
+Maria has been instrumental in driving change within the animal transport industry. Some of her notable achievements include:
 
-Collaboration is at the heart of what we do. We are a team that thrives on diversity, valuing the different ideas and insights that each member brings. This culture of openness and creativity allows us to innovate continually, to challenge conventional thinking, and to bring fresh perspectives to every project. We are not just a team; we are a community of like-minded individuals driven by a shared vision of making a positive impact through our work.
+- Leading campaigns that resulted in the adoption of stricter welfare regulations in several countries.
+- Organizing training programs for transport companies to educate them on humane handling and care practices.
+- Collaborating with international organizations to develop guidelines for improving animal welfare during sea transport.
 
-As we navigate the ever-evolving landscape of our industry, we remain steadfast in our commitment to excellence, integrity, and innovation. We understand that the world is constantly changing, and we are dedicated to staying ahead of the curve, embracing new technologies and methodologies to deliver solutions that are both cutting-edge and sustainable. Our journey is one of continuous learning and growth, and we are excited to share it with you.
+### Personal Mission
+
+Maria believes that every animal deserves to be treated with respect and compassion, regardless of the circumstances. Her mission is to create a world where animals are no longer subjected to unnecessary suffering during transport. Through her work with the Animal Welfare Alliance, she continues to advocate for systemic change, ensuring that animal welfare remains a priority in the global transport industry.
+
+> "Animals are sentient beings, and it is our responsibility to ensure their well-being, especially when they are most vulnerable. My goal is to make a lasting impact by improving the standards of animal transport and inspiring others to join this important cause." – Maria Boada
+
+### Join the Cause
+
+Maria invites everyone to join her in advocating for animal rights and improving welfare standards. Whether through volunteering, supporting NGOs, or spreading awareness, every effort counts in making a difference for animals in need.
+
+![Maria Boada]({{site.baseurl}}/images/109.jpg)
+*Maria Boada during an animal welfare inspection*
 
 ***

@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Creating a Greener Future Through Innovation
-description: As environmental concerns grow, sustainable design is becoming increasingly important. This article examines the principles of  design, the materials and methods used.
+title: The Most Dangerous Ships in the World
+description: Animal transport by sea poses significant risks, including poor ventilation, overcrowding, and long journeys that can lead to severe stress and health issues for the animals. Some of the world's most dangerous ships are notorious for neglecting these welfare standards.
 date: 2024-08-12 15:01:35 +0300
 author: richard
-image: '/images/06.jpg'
-video_embed: https://www.youtube.com/embed/TumrA0XsX0A?si=CpIToREi6CEh1KFu
-tags: [Design]
+image: '/images/108.png'
+video_embed: https://www.youtube.com/embed/gi1xhnYXEI4?si=yRa8Jhb2-l1eCNNa
+tags: [Transport, Ships, Animal Welfare]
 featured: true
 toc: true
 ---
