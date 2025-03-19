@@ -29,6 +29,8 @@ menu_settings:
         title: "Topics"
     - title: "About"
       url: "/about/"
+    - title: "CV"
+      url: "/cv/"
 
 # Call to action button
 cta_button:
